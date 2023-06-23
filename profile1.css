@@ -1,0 +1,32 @@
+head{
+    font-size: 20%;
+color: brown;
+}
+#me{
+color: blue;
+font-style: italic;
+font-size: 20%;
+}
+h2{
+    font-size: 140%;
+    font-weight: bold;
+}
+.mypic > img{
+height: 200px;
+width: 25%;
+}
+p{
+    font-style: oblique;
+    font-size: 130%;
+    color:red;
+}
+.abc{
+    height: 400px;
+    font-size: 140%;
+    color: chocolate;
+}
+
+.slogo{
+    height: 60px;
+margin-left: 5;
+}
